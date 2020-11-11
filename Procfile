@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run c_est_col_goiab.py
+web: sh setup.sh && streamlit run consulta_estoque_filial.py
